@@ -12,7 +12,7 @@ Después de esto vaya a la consola de comandos en la ruta raíz del proyecto y e
 
 Posterior a esto prueba lo siguiente:
 
-Recuerde que si abrió el servidor virtual solo debe abrir ese mismo enlace en el navegador, en incognito y en el teléfono con la misma dinámica de pruebas del siguiente tutorial
+**Recuerde que si abrió el servidor virtual solo debe abrir ese mismo enlace en el navegador, en incognito y en el teléfono con la misma dinámica de pruebas del siguiente tutorial**
 
 ---
 
