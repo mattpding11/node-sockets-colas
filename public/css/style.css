@@ -1,0 +1,72 @@
+/* @import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.3/font/bootstrap-icons.css"); */
+
+html,
+body {
+    height: 100%;
+    width: 100%;
+    background-color: #11191f;
+    color: white;
+}
+
+#btnTicket{
+    background-color: #1095c1;
+    font-weight: bold;
+    border: none;
+    border-radius: 10px;
+}
+
+#btnTicket:hover{
+    background-color: #1095c1a7;
+}
+
+table {
+    width: 100%;
+    height: 100%;
+    text-align: center;
+}
+
+.ticket-actual {
+    background-color: #11191f;
+}
+
+#lblEscritorio1{
+    color: #1095c1;
+}
+
+.ticket-actual-numero {
+    font-size: 80px;
+}
+
+.ticket-actual-escritorio {
+    font-size: 45px;
+}
+
+.ticket-secundario {
+    font-size: 25px;
+    background-color: #0e2731;
+}
+
+
+/* Nuevo-ticket */
+
+#lblNuevoTicket {
+    font-size: 70px;
+}
+
+#goBack{
+    
+    display: inline-block;
+    color: #eeeeee;
+    text-decoration: none
+}
+
+#goBack:hover{
+    color: #1095c1;
+}
+
+
+
+
+/* #numTicket{
+    color:  #1095c1;
+} */
