@@ -69,8 +69,8 @@ Vaya otra vez a la pantalla y verifique los turnos actuales y los pasados que so
  
 🌐 Portafolio web: https://mattpding11.github.io/mateo 
   
-🌐 LinkedIn: https://www.linkedin.com/in/mateo-pe%C3%B1aranda-diaz-fullstack-developer/
+🌐 LinkedIn: https://www.linkedin.com/in/mateo-penaranda-diaz-fullstack-developer/
   
-✉️ Correo: mateo_1999_7@outlook.es
+✉️ Correo: mateo_1999_7@outlook.es 
 
 
