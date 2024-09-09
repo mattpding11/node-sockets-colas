@@ -2,7 +2,9 @@
 
 Esta aplicación te permite generar tiquetes, atender los tiquetes en cola y también visualizar los turnos en pantalla
 
-Para probarla online ente a este enlace** <https://node-sockets-colas-mpd.herokuapp.com>**
+Para probarla online ente a este enlace** https://node-sockets-colas.up.railway.app/
+
+<https://node-sockets-colas-mpd.herokuapp.com>**
 
 Para usarla en su local por favor descargue el repositorio y luego dentro de la carpeta cree el archivo **.env** dentro de este agregue lo siguiente:
 
